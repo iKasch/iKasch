@@ -2,7 +2,7 @@
 
 Hey i'm Kim - a frontend engineer living in hamburg. I'm interested in future mobility stuff and work for [@MOIA](http://moia.io) and [@Emmy](https://emmy-sharing.de).
 
-Besides coding i'm interested in playing cards, longboarding, bikes and where i should get my next tattoo.
+Besides coding i'm interested in playing cards, longboarding, bikes and what my next tattoo should be.
 
 ## How i work
 
