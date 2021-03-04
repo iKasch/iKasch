@@ -10,7 +10,7 @@ I specialised in motion and animation design for the web.
 
 Right now i am working a lot with React.
 
-I try to share my knowledge as much as i can and learn every day right after what [@AlieWard](https://twitter.comAlieWard) said "Ask smart people stupid questions".
+I try to share my knowledge as much as i can and learn every day right after what [@AlieWard](https://twitter.com/AlieWard) said "Ask smart people stupid questions".
 
 ## Get in touch
 
