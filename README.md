@@ -1,4 +1,4 @@
-# Kim Schneider - @ikasch
+# Kim Schneider
 
 Hey i'm Kim - a frontend engineer living in hamburg. I'm interested in future mobility stuff and work for [@MOIA](http://moia.io).
 
