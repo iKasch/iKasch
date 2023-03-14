@@ -2,15 +2,17 @@
 
 Hey i'm Kim - a frontend engineer living in hamburg. I'm interested in future mobility stuff and work for [@MOIA](http://moia.io).
 
+Alongside my main job, I contribute to [Post mit Herz](https://postmitherz.org) as a developer. 
+
 Besides coding i'm interested in pop-culture, video games, playingcards, longboarding, bikes and what my next tattoo should be.
 
 ## How i work
 
-I specialised in motion and animation design for the web.
+I specialize in motion and animation design for the web.
 
-I try to share my knowledge as much as i can and learn every day right after what [@AlieWard](https://twitter.com/AlieWard) said "Ask smart people stupid questions".
+Also, I try to share my knowledge as much as I can and learn every day right after what [@AlieWard](https://twitter.com/AlieWard) said “Ask smart people stupid questions”.
 
-## What I do
+## What I do (mostly)
 
 ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
