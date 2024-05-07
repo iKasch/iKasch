@@ -1,16 +1,19 @@
 # Kim Schneider
 
-Hey i'm Kim - a frontend engineer living in hamburg. I'm interested in future mobility stuff and work for [@MOIA](http://moia.io).
+Hey i'm Kim - a full stack engineer & chapter lead living in hamburg. I'm interested in future mobility stuff and work for [@MOIA](http://moia.io).
 
 Alongside my main job, I contribute to [Post mit Herz](https://postmitherz.org) as a developer. 
 
-Besides coding i'm interested in pop-culture, video games, playingcards, longboarding, bikes and what my next tattoo should be.
+Besides coding i'm interested in pop-culture, video games, playingcards, longboarding, bikes, plants and what my next tattoo should be.
 
 ## How i work
 
 I specialize in motion and animation design for the web.
 
 Also, I try to share my knowledge as much as I can and learn every day right after what [@AlieWard](https://twitter.com/AlieWard) said “Ask smart people stupid questions”.
+
+[![https://read.cv/kom](https://img.shields.io/badge/CV%20-%23323330.svg?&style=for-the-badge&logo=read.cv&logoColor=white)](https://read.cv/kom)
+[![work@schneider.kim](https://img.shields.io/badge/Mail%20Me%20-5522FA.svg?&style=for-the-badge&logo=HEY&logoColor=white)](mailto:work@schneider.kim)
 
 ## What I do (mostly)
 
