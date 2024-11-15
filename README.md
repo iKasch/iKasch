@@ -32,6 +32,6 @@ Also, I try to share my knowledge as much as I can and learn every day right aft
 
 ## Get in touch
 
-- Mastodon: [@kim@norden.social](https://norden.social/@kim)
+- Threads: [@ikasch](https://www.threads.net/@ikasch)
 - Instagram: [@ikasch](https://instagram.com/ikasch)
 - Website: [schneider.kim](https://schneider.kim)
